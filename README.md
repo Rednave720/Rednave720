@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/the journey of bp5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the journey of bp5" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/the journey of bp5" target="blank"><img align="center" <img width="1250" alt="Screen Shot 2023-01-07 at 10 58 30 PM" src="https://user-images.githubusercontent.com/105802516/211180241-761382a3-22c7-4835-bd46-cd24b3487ed0.png"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
