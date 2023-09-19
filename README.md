@@ -1,7 +1,5 @@
-![MasterHead](![Header](./your-header-image-name.png))
-<h1 align="center">Hi 👋, I'm Bryan</h1>
-<h3 align="center">A passionate frontend developer from Massachussetts, USA</h3>
-
+![Header](./your-header-image-name.png)
+<h1 align="center">Boston, MA</h1>
 - 🔭 I’m currently working on [P&C Market Restaurant & Caribbean Cuisine](bryanpierre.com)
 
 - 🌱 I’m currently learning **AngularJS, ReactJS & Wordpress.org**
