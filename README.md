@@ -1,10 +1,10 @@
-![MasterHead](https://kntechpower.files.wordpress.com/2016/05/hi-tech-concepts-on-blue-background-header.jpg)
+![MasterHead](![Header](./your-header-image-name.png))
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">A passionate frontend developer from Massachussetts, USA</h3>
 
-- 🔭 I’m currently working on [Personal Page & Custom Linktree](https://github.com/Rednave720/Portfolio)
+- 🔭 I’m currently working on [P&C Market Restaurant & Caribbean Cuisine](bryanpierre.com)
 
-- 🌱 I’m currently learning **AngularJS & Wordpress.org**
+- 🌱 I’m currently learning **AngularJS, ReactJS & Wordpress.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
